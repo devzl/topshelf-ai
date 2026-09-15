@@ -125,9 +125,6 @@ Official collection of reference Model Context Protocol servers for filesystem, 
 
 ## AI Assistants
 
-#### [TencentCloud/Octop](https://github.com/TencentCloud/Octop) ![GitHub stars](https://img.shields.io/github/stars/TencentCloud/Octop?style=flat-square&label=%E2%98%85)
-Self-hosted, multi-user, multi-agent AI assistant platform that keeps all data and credentials local.
-
 #### [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) ![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat-square&label=%E2%98%85)
 Self-hosted control center for delegating coding tasks to OpenHands, Claude Code, Codex or any ACP-compatible agent.
 
