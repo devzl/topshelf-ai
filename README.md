@@ -1,10 +1,5 @@
 # Topshelf AI
 
-![License](https://img.shields.io/github/license/devzl/topshelf-ai?style=flat-square)
-![Last commit](https://img.shields.io/github/last-commit/devzl/topshelf-ai?style=flat-square&label=updated)
-![Repo stars](https://img.shields.io/github/stars/devzl/topshelf-ai?style=flat-square)
-![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)
-
 Hand-picked, open source AI tools and adjacent tooling, organised by category.
 
 ## Categories
