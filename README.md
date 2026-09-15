@@ -36,6 +36,9 @@ Zero-fee CLI that gives agents read and search access across Twitter, Reddit, Yo
 #### [stablyai/orca](https://github.com/stablyai/orca) ![GitHub stars](https://img.shields.io/github/stars/stablyai/orca?style=flat-square&label=%E2%98%85)
 Development environment for running fleets of coding agents in parallel, isolated git worktrees.
 
+#### [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) ![GitHub stars](https://img.shields.io/github/stars/JuliusBrussee/caveman?style=flat-square&label=%E2%98%85)
+Skill plus local proxy that cut agent token usage by compressing terse output and pre-compressing logs, diffs and test output.
+
 ## Agent Skills & Frameworks
 
 #### [Fission-AI/OpenSpec](https://github.com/fission-ai/openspec) ![GitHub stars](https://img.shields.io/github/stars/fission-ai/openspec?style=flat-square&label=%E2%98%85)
