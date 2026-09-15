@@ -71,6 +71,9 @@ DeepSeek's open-source agent harness, built on an everything-is-a-plugin archite
 #### [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) ![GitHub stars](https://img.shields.io/github/stars/ayghri/i-have-adhd?style=flat-square&label=%E2%98%85)
 Skill that stops coding agents from burying the answer, forcing action-first, numbered-step responses.
 
+#### [devzl/handover](https://github.com/devzl/handover) ![GitHub stars](https://img.shields.io/github/stars/devzl/handover?style=flat-square&label=%E2%98%85)
+Portable agent skill that makes any AI coding assistant produce a clean, accurate, self-contained project handover.
+
 ## Research Automation
 
 #### [karpathy/autoresearch](https://github.com/karpathy/autoresearch) ![GitHub stars](https://img.shields.io/github/stars/karpathy/autoresearch?style=flat-square&label=%E2%98%85)
