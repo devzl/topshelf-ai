@@ -27,6 +27,7 @@ One-line description written in your own words, not copy-pasted from the repo.
 - Each category is an `##` heading.
 - Every category must be listed in the `## Categories` table of contents near the top of `README.md`, linking to its anchor.
 - Keep category names short and specific (e.g. "Agent Skills & Frameworks", not "AI Stuff").
+- Within each category, entries are sorted by current GitHub star count, highest first. When adding a tool, check its live star count and insert it in the right position, not just at the end.
 
 ## Workflow
 
