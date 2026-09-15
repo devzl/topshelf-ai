@@ -10,9 +10,10 @@ Hand-picked, open source AI tools and adjacent tooling, organised by category.
 - [Voice & Audio](#voice--audio)
 - [Local LLM Runners](#local-llm-runners)
 - [Browser & Web Automation](#browser--web-automation)
+- [Agent Observability & Evals](#agent-observability--evals)
+- [MCP & Agent Infrastructure](#mcp--agent-infrastructure)
 - [AI Assistants](#ai-assistants)
 - [Video & Content Generation](#video--content-generation)
-- [Learning Resources](#learning-resources)
 
 ---
 
@@ -20,6 +21,9 @@ Hand-picked, open source AI tools and adjacent tooling, organised by category.
 
 #### [rtk-ai/rtk](https://github.com/rtk-ai/rtk) ![GitHub stars](https://img.shields.io/github/stars/rtk-ai/rtk?style=flat-square&label=%E2%98%85)
 CLI proxy that reduces LLM token consumption by 60-90% on common dev commands.
+
+#### [Aider-AI/aider](https://github.com/Aider-AI/aider) ![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=flat-square&label=%E2%98%85)
+Terminal-native AI pair programmer that maps your codebase, edits files, runs tests and integrates tightly with Git.
 
 #### [alibaba/open-code-review](https://github.com/alibaba/open-code-review) ![GitHub stars](https://img.shields.io/github/stars/alibaba/open-code-review?style=flat-square&label=%E2%98%85)
 LLM-powered automated code review CLI, battle-tested at Alibaba's scale, with built-in vulnerability rulesets.
@@ -97,23 +101,38 @@ Pure C inference engine that streams huge MoE models (up to 2.8T parameters) fro
 #### [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) ![GitHub stars](https://img.shields.io/github/stars/feder-cr/AIHawk?style=flat-square&label=%E2%98%85)
 Anti-detection MCP server and browser agent for undetected web scraping and computer-use automation.
 
+#### [browserbase/stagehand](https://github.com/browserbase/stagehand) ![GitHub stars](https://img.shields.io/github/stars/browserbase/stagehand?style=flat-square&label=%E2%98%85)
+Browser-agent SDK combining Playwright-style deterministic control with self-healing, natural-language act/observe/extract.
+
+#### [browser-use/browser-use](https://github.com/browser-use/browser-use) ![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat-square&label=%E2%98%85)
+Python framework that gives AI agents browser control for autonomous navigation and web tasks.
+
+## Agent Observability & Evals
+
+#### [openlit/openlit](https://github.com/openlit/openlit) ![GitHub stars](https://img.shields.io/github/stars/openlit/openlit?style=flat-square&label=%E2%98%85)
+Open-source observability and evaluation platform that traces LLM calls, tool calls, prompts, costs and agent workflows via OpenTelemetry.
+
+#### [opensearch-project/agent-health](https://github.com/opensearch-project/agent-health) ![GitHub stars](https://img.shields.io/github/stars/opensearch-project/agent-health?style=flat-square&label=%E2%98%85)
+Evaluation and observability toolkit for comparing agent trajectories, running batch experiments and tracing agents in production.
+
+## MCP & Agent Infrastructure
+
+#### [stacklok/toolhive](https://github.com/stacklok/toolhive) ![GitHub stars](https://img.shields.io/github/stars/stacklok/toolhive?style=flat-square&label=%E2%98%85)
+Enterprise-grade platform for running MCP servers in isolated containers with access policies, auditability and Kubernetes support.
+
+#### [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat-square&label=%E2%98%85)
+Official collection of reference Model Context Protocol servers for filesystem, memory and other common agent capabilities.
+
 ## AI Assistants
 
 #### [TencentCloud/Octop](https://github.com/TencentCloud/Octop) ![GitHub stars](https://img.shields.io/github/stars/TencentCloud/Octop?style=flat-square&label=%E2%98%85)
 Self-hosted, multi-user, multi-agent AI assistant platform that keeps all data and credentials local.
+
+#### [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) ![GitHub stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat-square&label=%E2%98%85)
+Self-hosted control center for delegating coding tasks to OpenHands, Claude Code, Codex or any ACP-compatible agent.
 
 ## Video & Content Generation
 
 #### [hypit-ai/hypit](https://github.com/hypit-ai/hypit) ![GitHub stars](https://img.shields.io/github/stars/hypit-ai/hypit?style=flat-square&label=%E2%98%85)
 Clones any viral video's structure with AI agents, swapping faces, words and B-roll to generate variants.
 
-## Learning Resources
-
-#### [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book) ![GitHub stars](https://img.shields.io/github/stars/bojieli/ai-infra-book?style=flat-square&label=%E2%98%85)
-Open textbook on LLM training and inference infrastructure, with quantitative system-design derivations and tooling.
-
-#### [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) ![GitHub stars](https://img.shields.io/github/stars/bojieli/ai-agent-book?style=flat-square&label=%E2%98%85)
-Open-source book and 109 hands-on experiments on AI agent design principles and engineering practice.
-
-#### [zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI) ![GitHub stars](https://img.shields.io/github/stars/zjwzcx/Awesome-Astra-Embodied-AI?style=flat-square&label=%E2%98%85)
-Curated compilation of embodied-AI and robotics cases spanning zero-shot control, RL training and sim-to-real replay.
