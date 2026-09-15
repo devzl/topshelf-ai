@@ -136,3 +136,6 @@ Self-hosted control center for delegating coding tasks to OpenHands, Claude Code
 #### [hypit-ai/hypit](https://github.com/hypit-ai/hypit) ![GitHub stars](https://img.shields.io/github/stars/hypit-ai/hypit?style=flat-square&label=%E2%98%85)
 Clones any viral video's structure with AI agents, swapping faces, words and B-roll to generate variants.
 
+#### [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) ![GitHub stars](https://img.shields.io/github/stars/harry0703/MoneyPrinterTurbo?style=flat-square&label=%E2%98%85)
+Generates full short-form videos from just a topic: scripts, matched footage, subtitles, background music and TTS.
+
