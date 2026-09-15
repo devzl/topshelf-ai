@@ -16,10 +16,10 @@ Hand-picked, open source AI tools and adjacent tooling, organised by category.
 ### [rtk-ai/rtk](https://github.com/rtk-ai/rtk) ![GitHub stars](https://img.shields.io/github/stars/rtk-ai/rtk?style=flat-square&label=%E2%98%85)
 CLI proxy that reduces LLM token consumption by 60-90% on common dev commands.
 
+## Agent Skills & Frameworks
+
 ### [Fission-AI/OpenSpec](https://github.com/fission-ai/openspec) ![GitHub stars](https://img.shields.io/github/stars/fission-ai/openspec?style=flat-square&label=%E2%98%85)
 Spec-driven development framework that helps AI coding assistants and humans align on requirements before writing code.
-
-## Agent Skills & Frameworks
 
 ### [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) ![GitHub stars](https://img.shields.io/github/stars/DietrichGebert/ponytail?style=flat-square&label=%E2%98%85)
 Agent skill that makes AI coding agents write minimal, necessary code via a "lazy senior dev" decision ladder.
