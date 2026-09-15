@@ -13,11 +13,11 @@ This file governs how any AI agent (Claude, GPT, etc.) should add or edit entrie
 Every entry is a card, not a bullet:
 
 ```
-### [owner/repo](https://github.com/owner/repo) ![GitHub stars](https://img.shields.io/github/stars/owner/repo?style=flat-square&label=%E2%98%85)
+#### [owner/repo](https://github.com/owner/repo) ![GitHub stars](https://img.shields.io/github/stars/owner/repo?style=flat-square&label=%E2%98%85)
 One-line description written in your own words, not copy-pasted from the repo.
 ```
 
-- The name is a heading (`###`), linked to the GitHub repo.
+- The name is a heading (`####`), linked to the GitHub repo.
 - A shields.io star badge sits on the same line as the name. Never hardcode a star count.
 - The description goes on the line below the heading, one line only.
 - Do not use bullet-list entries for tools.
