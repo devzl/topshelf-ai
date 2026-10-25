@@ -81,6 +81,9 @@ Coding-agent skill that runs structured, six-phase security audits with adversar
 #### [devzl/handover](https://github.com/devzl/handover) ![GitHub stars](https://img.shields.io/github/stars/devzl/handover?style=flat-square&label=%E2%98%85)
 Portable agent skill that makes any AI coding assistant produce a clean, accurate, self-contained project handover.
 
+#### [devzl/deepen-prompt](https://github.com/devzl/deepen-prompt) ![GitHub stars](https://img.shields.io/github/stars/devzl/deepen-prompt?style=flat-square&label=%E2%98%85)
+Agent skill that reworks a task around primary sources, named methods and an independent check, then carries it out at the same scope.
+
 ## Research Automation
 
 #### [karpathy/autoresearch](https://github.com/karpathy/autoresearch) ![GitHub stars](https://img.shields.io/github/stars/karpathy/autoresearch?style=flat-square&label=%E2%98%85)
